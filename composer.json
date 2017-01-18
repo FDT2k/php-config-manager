@@ -1,6 +1,6 @@
 {
-    "name": "fdt2k/ice-config-manager",
-
+    "name": "fdt2k/configmanager",
+    "version":"1.0",
     "description": "XML Based Template Engine",
     "license": "BSD-3-Clause-Attribution",
     "authors": [
