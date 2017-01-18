@@ -1,6 +1,4 @@
 <?php
-namespace FDT2k;
-
 
 class ConfigManager {
 	protected  $file;
