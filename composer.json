@@ -1,8 +1,8 @@
 {
-    "name": "fdt2k/configmanager",
+    "name": "fdt2k/config-manager",
     "version":"1.0",
-    "description": "Simple configuration manager",
-    "license": "BSD-3-Clause-Attribution",
+    "description": "Simple configuration manager built on yaml files",
+    "license": "MIT",
     "authors": [
         {
             "name": "Fabien Di Tore",
